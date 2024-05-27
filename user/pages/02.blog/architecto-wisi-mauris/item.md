@@ -1,16 +1,18 @@
 ---
-title: 'Pengenalan Life Cycle Assesment dan hubungannya dengan Dukungan Keputusan Lingkungans'
+title: 'Pengenalan Life Cycle Assesment dan hubungannya dengan Dukungan Keputusan Lingkungan'
 date: '08:11 05/26/2024'
 author: 'Rescue Themes'
 body_classes: 'single single-post postid-15 single-format-standard group-blog'
 taxonomy:
-    category: Training
+    category:
+        - Training
     tag:
         - 'PELATIHAN KE PROFESIAN'
         - 'Professional Training'
         - PLPPNS
         - PPNS
-    featured: true
+    featured:
+        - '1'
 ---
 
 **[PROFESSIONAL TRAINING 2024]**
