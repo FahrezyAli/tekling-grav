@@ -1,0 +1,101 @@
+# Sass
+.sass-cache
+*.map
+
+# Add the entire Grav site to GitHub
+# https://getgrav.org/blog/developing-with-github-part-2
+composer.lock
+backup/*
+!backup/.*
+cache/*
+!cache/.*
+assets/*
+!assets/.*
+logs/*
+!logs/.*
+images/*
+!images/.*
+user/data/*
+!user/data/.*
+user/accounts/*
+!user/accounts/.*
+
+# local cofig and security
+user/localhost/config/security.yaml
+user/config/security.yaml
+user/config/site.yaml
+user/config/system.yaml
+user/config/plugins/email.yaml
+
+#specific .htaccess -> dists in webserver-congifs
+.htaccess
+
+tests/_output/*
+tests/_support/_generated/*
+tests/cache/*
+tests/error.log
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+### Node ###
+
+npm-debug.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# nyc test coverage
+.nyc_output
+
+# node-waf configuration
+.lock-wscript
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+.idea/hammes.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries/Sebastian.xml
+.idea/inspectionProfiles/Project_Default.xml
+
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
