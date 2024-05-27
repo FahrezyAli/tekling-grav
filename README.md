@@ -1,4 +1,13 @@
-# Grav Website untuk Tugas Pemrograman Web
+# Grav Website Program Studi Teknik Lingkungan
+
+Dibuat oleh Kelompok 7 Kelas I2 Pemrograman Web Sistem Informasi UNAIR
+
+* Ahmad Izzah Anugrah I.    187221085
+* Kemal Ramadhan            187221062
+* Rizal Ahmad Doni          187221096
+* I Gede Suyoga Guna Putra  187221055
+* Ali Ahmad Fahrezy         187221042
+
 
 # Requirements
 
