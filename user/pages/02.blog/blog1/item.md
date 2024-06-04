@@ -20,6 +20,9 @@ taxonomy:
 **HIMATEKPL Proudly Present**
 
 Teknik Pengolahan Limbah Politeknik Perkapalan Negeri Surabaya bekerja sama dengan Fleetnix Professional Training Life Cycle Assesment dengan materi :
+
+===
+
 * Pengenalan Life Cycle Assesment dan hubungannya dengan Dukungan Keputusan Lingkungan
 * Penentuan Tujuan dan Ruang Lingkup (Metodologi tahap 1)
 * Inventor Daur Hidup (Metodologi tahap 2)

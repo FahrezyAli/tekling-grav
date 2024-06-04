@@ -14,7 +14,11 @@ taxonomy:
 
 Tri Suci Waisak adalah momen dalam merenungkan segala perbuatan yang telah dilakukan, apakah itu baik atau buruk untuk kita, maupun pihak lain.
 
+===
+
 Selamat Hari Raya Tri Suci Waisak EV!!✨
+
+---
 
 HMTL UNAIR KABINET NAWASENA 2024
 
