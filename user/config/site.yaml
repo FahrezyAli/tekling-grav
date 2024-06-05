@@ -1,0 +1,41 @@
+title: 'Teknik Lingkungan'
+default_lang: en
+author:
+  name: 'Ali Ahmad Fahrezy'
+  email: aliahmadfahrezy@gmail.com
+  copyright: 'Copyright 2013 Gateway. All Rights Reserved.'
+taxonomies:
+  - category
+  - tag
+  - featured
+metadata:
+  description: 'Situs Teknik Lingkungan Universitas Airlangga'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
+logo: logo_new.png
+header:
+  title: 'Welcome to Enviromental Engineering Website!'
+  description: 'Everything that we have done is here! Check our latest news, events and more!'
+  background: background_new.jpg
+  buttons:
+    -
+      text: 'Explore More'
+      url: /blog
+      class: 'button radius'
+social:
+  -
+    url: 'https://www.instagram.com/hmtl_unair/'
+    icon: instagram
+footer:
+  widget:
+    title: 'Teknik Lingkungan Universitas Airlangga'
+    description: ''
+    link: null
+copyright: 'Copyright © 2015 <a href="http://rescuethemes.com/">Rescue Themes</a>. All Rights Reserved. Converted by <a href="http://www.getgrav.org">Grav Team</a>'

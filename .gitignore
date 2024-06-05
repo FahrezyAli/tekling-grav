@@ -20,13 +20,6 @@ user/data/*
 user/accounts/*
 !user/accounts/.*
 
-# local cofig and security
-user/localhost/config/security.yaml
-user/config/security.yaml
-user/config/site.yaml
-user/config/system.yaml
-user/config/plugins/email.yaml
-
 #specific .htaccess -> dists in webserver-congifs
 .htaccess
 
