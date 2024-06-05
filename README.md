@@ -23,4 +23,3 @@ The full documentation can be found from [learn.getgrav.org](https://learn.getgr
 1. Clone repository
 2. Run composer install
 3. Run composer update
-4. Run bin/grav serve

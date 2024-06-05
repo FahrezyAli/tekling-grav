@@ -3,7 +3,7 @@
         'name' => 'getgrav/grav',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'aa010e7b253f402623332cb1581ae4bc6c3e98bc',
+        'reference' => '9a4cc0c0dee8199fcb979ae6d0887df01d1d0938',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -193,7 +193,7 @@
         'getgrav/grav' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'aa010e7b253f402623332cb1581ae4bc6c3e98bc',
+            'reference' => '9a4cc0c0dee8199fcb979ae6d0887df01d1d0938',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
